@@ -1,2 +1,1 @@
-asdasd
-dsf
+Hello, World! I'm new to Git..
